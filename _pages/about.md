@@ -12,7 +12,7 @@ I'm a fourth-year undergraduate student from [School of EECS](https://eecs.pku.e
 
 I am very fortunate to be advised by [Prof. Shanghang Zhang](https://www.shanghangzhang.com/) of BLV Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. Boxin Shi](https://ci.idm.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
 
-You can find my CV here: [Di Qiu's Curriculum Vitae](../assets/Di_Qiu_CV.pdf).
+You can find my CV here: [Di Qiu's Curriculum Vitae](../assets/CV_Di_Qiu.pdf).
 
 **I’m actively seeking opportunities to pursue a Master's degree starting from Fall 2024.**
 
