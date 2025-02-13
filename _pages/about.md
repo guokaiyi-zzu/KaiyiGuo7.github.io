@@ -21,4 +21,13 @@ You can find my CV here: [Kaiyi Guo's Curriculum Vitae](../assets/CV (2).pdf).
 
 <div style="height: 4px; background-color: red;"></div>
 
-Dec, 2024
+Jan, 2025                🎉 EchoBreath was accepted with minor revision to CHI’25. A glasses that monitor a user's abnormal respiratory behaviors with 
+                         subject awareness in the real world.
+
+Dec, 2024                🎉 WearSE was accepted with minor revision to IMWUT’25. A glasses that can enhance your speech in a streaming manner with low 
+                         power consumption.  
+
+Apr, 2024                🎉 EchoLip was accepted with minor revision to IMWUT’24. A smartwatch using active acoustic sensing to achieve silent 
+                         speech recognition. 
+
+          
