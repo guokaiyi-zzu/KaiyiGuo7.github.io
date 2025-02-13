@@ -13,7 +13,7 @@ name                     : &name "Di Qiu"
 description              : &description "a third year undergraduate student from Peking University"
 url                      : https://guokaiyi-zzu.github.io/KaiyiGuo7.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "QiuDi233/QiuDi233.github.io"
+repository               : "guokaiyi-zzu/KaiyiGuo7.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
