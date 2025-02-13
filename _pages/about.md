@@ -23,7 +23,8 @@ You can find my CV here: [Kaiyi Guo's Curriculum Vitae](../assets/CV (2).pdf).
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-**Jan, 2025**:&nbsp; 🎉 **EchoBreath** was accepted with minor revision to CHI’25. A glasses that monitor a user's abnormal respiratory behaviors with 
+**Jan, 2025**:&nbsp; 🎉 **EchoBreath** was accepted with minor revision to CHI’25. A glasses that monitor a user's abnormal respiratory   
+                        behaviors with 
                          subject awareness in the real world.
 
 **Dec, 2024**:&nbsp; 🎉 **WearSE** was accepted with minor revision to IMWUT’25. A glasses that can enhance your speech in a streaming manner with low 
