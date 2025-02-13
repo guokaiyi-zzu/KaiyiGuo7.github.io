@@ -16,3 +16,9 @@ You can find my CV here: [Kaiyi Guo's Curriculum Vitae](../assets/CV (2).pdf).
 
 **I’m actively seeking opportunities to pursue a Ph.D. starting in Fall 2026.**
 
+
+### News
+
+<div style="height: 4px; background-color: red;"></div>
+
+Dec, 2024
