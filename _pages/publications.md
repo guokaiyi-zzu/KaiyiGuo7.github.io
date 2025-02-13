@@ -17,7 +17,7 @@ author_profile: true
 
 <sup>*</sup> Equal Contribution
 
-You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=dCuMUU4AAAAJ&hl=zh-CN).
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
