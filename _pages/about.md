@@ -21,35 +21,19 @@ You can find my CV here: [Kaiyi Guo's Curriculum Vitae](../assets/CV (2).pdf).
 
 <div style="height: 4px; background-color: red;"></div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-**Jan, 2025**:&nbsp; 🎉 **EchoBreath** was accepted with minor revision to CHI’25. A glasses that monitor a user's abnormal respiratory   
-                        behaviors with 
-                         subject awareness in the real world.
-
-**Dec, 2024**:&nbsp; 🎉 **WearSE** was accepted with minor revision to IMWUT’25. A glasses that can enhance your speech in a streaming manner with low 
-                         power consumption.  
-
-**Apr, 2024**:&nbsp;🎉 **EchoLip** was accepted with minor revision to IMWUT’24. A smartwatch using active acoustic sensing to achieve silent 
-                         speech recognition. 
-
 
 <table style="width: 100%; border-collapse: collapse; background-color: transparent; border: none; font-size: 16px;">
   <tr>
-    <td style="border: none;"><strong style="font-size: 18px;">Jan 16, 2025</strong></td>
-    <td style="border: none;">🎉 SpellRing was accepted with minor revision to CHI’25. A single ring that can recognize fingerspelling in ASL performed by native signers continuously in real-time.</td>
+    <td style="border: none;"><strong style="font-size: 18px;">Jan, 2025</strong></td>
+    <td style="border: none;">🎉 EchoBreath was accepted with minor revision to CHI’25. A glasses that monitor a user's abnormal respiratory behaviors with subject awareness in the real world.</td>
   </tr>
   <tr>
-    <td style="border: none;"><strong style="font-size: 18px;">Jan 01, 2025</strong></td>
-    <td style="border: none;">🎉 SeamFit was directly accepted with minor revision to IMWUT. Your smart shirt can now recognize your exercise.</td>
+    <td style="border: none;"><strong style="font-size: 18px;">Dec, 2024</strong></td>
+    <td style="border: none;">🎉 WearSE was accepted with minor revision to IMWUT’25. A glasses that can enhance your speech in a streaming manner with low power consumption.</td>
   </tr>
   <tr>
-    <td style="border: none;"><strong style="font-size: 18px;">Oct 10, 2024</strong></td>
-    <td style="border: none;">🏆 EchoGuide received ISWC’24 Best Paper Honorable Mention award.</td>
-  </tr>
-  <tr>
-    <td style="border: none;"><strong style="font-size: 18px;">Sep 26, 2024</strong></td>
-    <td style="border: none;">🎉 SonicID and ActSonic are both accepted with minor revision to IMWUT. Smart glasses now can understand your activities in the wild and know who you are with just 2 mic+speakers.</td>
+    <td style="border: none;"><strong style="font-size: 18px;">Apr, 2024</strong></td>
+    <td style="border: none;">🎉 EchoLip was accepted with minor revision to IMWUT’24. A smartwatch using active acoustic sensing to achieve silent speech recognition.</td>
   </tr>
 </table>
 
