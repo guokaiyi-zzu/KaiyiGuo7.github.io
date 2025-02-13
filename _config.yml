@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Di Qiu's Personal Homepage"
+title                    : "Kaiyi Guo's Personal Homepage"
 title_separator          : "-"
-name                     : &name "Di Qiu"
-description              : &description "a third year undergraduate student from Peking University"
+name                     : &name "Kaiyi Guo"
+description              : &description "a second year Master‘s student from Shanghai Jiao Tong University"
 url                      : https://guokaiyi-zzu.github.io/KaiyiGuo7.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "guokaiyi-zzu/KaiyiGuo7.github.io"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Di Qiu（邱荻）"
+  name             : "Kaiyi Guo"
   avatar           : "gky.png"
   bio              : "Shanghai Jiao Tong University"
   location         : "China Shanghai"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=dCuMUU4AAAAJ&hl=zh-CN"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/QiuDi233"
+  github           : #"https://github.com/QiuDi233"
   google_plus      :
   keybase          :
   instagram        :
