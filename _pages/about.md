@@ -33,4 +33,24 @@ You can find my CV here: [Kaiyi Guo's Curriculum Vitae](../assets/CV (2).pdf).
 **Apr, 2024**:&nbsp;🎉 **EchoLip** was accepted with minor revision to IMWUT’24. A smartwatch using active acoustic sensing to achieve silent 
                          speech recognition. 
 
+
+<table>
+  <tr>
+    <td><strong>Jan 16, 2025</strong></td>
+    <td>🎉 SpellRing was accepted with minor revision to CHI’25. A single ring that can recognize fingerspelling in ASL performed by native signers continuously in real-time.</td>
+  </tr>
+  <tr>
+    <td><strong>Jan 01, 2025</strong></td>
+    <td>🎉 SeamFit was directly accepted with minor revision to IMWUT. Your smart shirt can now recognize your exercise.</td>
+  </tr>
+  <tr>
+    <td><strong>Oct 10, 2024</strong></td>
+    <td>🏆 EchoGuide received ISWC’24 Best Paper Honorable Mention award.</td>
+  </tr>
+  <tr>
+    <td><strong>Sep 26, 2024</strong></td>
+    <td>🎉 SonicID and ActSonic are both accepted with minor revision to IMWUT. Smart glasses now can understand your activities in the wild and know who you are with just 2 mic+speakers.</td>
+  </tr>
+</table>
+
           
