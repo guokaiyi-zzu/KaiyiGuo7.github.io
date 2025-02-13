@@ -34,24 +34,25 @@ You can find my CV here: [Kaiyi Guo's Curriculum Vitae](../assets/CV (2).pdf).
                          speech recognition. 
 
 
-<table style="width: 100%; border-collapse: collapse; background-color: transparent;">
+<table style="width: 100%; border-collapse: collapse; background-color: transparent; border: none; font-size: 16px;">
   <tr>
-    <td style="border: none;"><strong>Jan 16, 2025</strong></td>
+    <td style="border: none;"><strong style="font-size: 18px;">Jan 16, 2025</strong></td>
     <td style="border: none;">🎉 SpellRing was accepted with minor revision to CHI’25. A single ring that can recognize fingerspelling in ASL performed by native signers continuously in real-time.</td>
   </tr>
   <tr>
-    <td style="border: none;"><strong>Jan 01, 2025</strong></td>
+    <td style="border: none;"><strong style="font-size: 18px;">Jan 01, 2025</strong></td>
     <td style="border: none;">🎉 SeamFit was directly accepted with minor revision to IMWUT. Your smart shirt can now recognize your exercise.</td>
   </tr>
   <tr>
-    <td style="border: none;"><strong>Oct 10, 2024</strong></td>
+    <td style="border: none;"><strong style="font-size: 18px;">Oct 10, 2024</strong></td>
     <td style="border: none;">🏆 EchoGuide received ISWC’24 Best Paper Honorable Mention award.</td>
   </tr>
   <tr>
-    <td style="border: none;"><strong>Sep 26, 2024</strong></td>
+    <td style="border: none;"><strong style="font-size: 18px;">Sep 26, 2024</strong></td>
     <td style="border: none;">🎉 SonicID and ActSonic are both accepted with minor revision to IMWUT. Smart glasses now can understand your activities in the wild and know who you are with just 2 mic+speakers.</td>
   </tr>
 </table>
+
 
 
           
