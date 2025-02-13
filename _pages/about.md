@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fourth-year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, machine learning, computational photography and robotics.
+I'm a second-year Master's student from [School of Software](https://se.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). My research interests focus on **human-computer interaction**, **smart health**, **wireless sensing**, and **applied machine learning**. By exploring diverse sensing modalities, hardware forms, and innovative machine learning methods, I aspire to transform complex interactive techniques, once restricted to laboratory settings, into simpler, more universally applicable solutions in real-world scenarios.
 
-I am very fortunate to be advised by [Prof. Shanghang Zhang](https://www.shanghangzhang.com/) of BLV Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. Boxin Shi](https://ci.idm.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+I am very fortunate to be advised by [Prof. Dong Wang](http://www.se.sjtu.edu.cn/Data/View/286) of RFID and IoT Lab from [School of Software](https://cs.pku.edu.cn/), Shanghai Jiao Tong University. 
 
 You can find my CV here: [Di Qiu's Curriculum Vitae](../assets/CV_Di_Qiu.pdf).
 
-**I’m actively seeking opportunities to pursue a Master's degree starting from Fall 2024.**
+**I’m actively seeking opportunities to pursue a Ph.D. starting in Fall 2026.**
 
 [Email](mailto:qiudi@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [Blog](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
