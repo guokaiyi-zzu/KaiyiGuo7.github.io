@@ -5,8 +5,19 @@ permalink: /publications/
 author_profile: true
 ---
 
+- **C4.** **<u>Kaiyi Guo</u>**<sup>*</sup>, Tianyu Wu<sup>*</sup>, Yang Gao, Qian Zhang, Dong Wang, **EchoTouch: Low-power Face-touching Behavior Recognition Using Active Acoustic Sensing on Glasses**, Submit to ACM Interact. Mob. Wearable Ubiquitous Technol (IMWUT)/Ubicomp'25 (Major Revision).
 
-CHI
+- **J1.** **<u>Kaiyi Guo</u>**, Qian Zhang, Dong Wang, **EchoExpress: Facial Expression Recognition in the Wild via Acoustic Sensing on Smart Glasses**, IEEE Transactions on Mobile Computing (Minor Revision).
+
+- **C3.** **<u>Kaiyi Guo</u>**, Qian Zhang, Dong Wang, **EchoBreath: Continuous Respiratory Behavior Recognition in the Wild via Acoustic Sensing on Smart Glasses**, In Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (CHI'25).
+
+- **C2.** Qian Zhang, **<u>Kaiyi Guo</u>**, Yifei Yang, Dong Wang, **WearSE: Enabling Streaming Speech Enhancement on Eyewear Using Acoustic Sensing**, In Proceedings of ACM Interact. Mob. Wearable Ubiquitous Technol (IMWUT)/Ubicomp'25.
+
+- **C1.** Qian Zhang, Yubin Lan, **<u>Kaiyi Guo</u>**, Dong Wang, **Lipwatch: Enabling Silent Speech Recognition on Smartwatches using Acoustic Sensing**, In Proceedings of ACM Interact. Mob. Wearable Ubiquitous Technol (IMWUT)/Ubicomp'24.
+
+<sup>*</sup> Equal Contribution
+
+You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
