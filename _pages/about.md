@@ -33,7 +33,7 @@ You can find my CV here: [Kaiyi Guo's Curriculum Vitae](../assets/CV (2).pdf).
   </tr>
   <tr>
     <td style="border: none;"><strong style="font-size: 18px;">Apr, 2024</strong></td>
-    <td style="border: none;">🎉 EchoLip was accepted with minor revision to IMWUT’24. A smartwatch using active acoustic sensing to achieve silent speech recognition.</td>
+    <td style="border: none;">🎉 Lipwatch was accepted with minor revision to IMWUT’24. A smartwatch using active acoustic sensing to achieve silent speech recognition.</td>
   </tr>
 </table>
 
