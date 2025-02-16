@@ -13,7 +13,8 @@ author_profile: true
 
 - **C2.** Qian Zhang, **<u>Kaiyi Guo</u>**, Yifei Yang, Dong Wang, **WearSE: Enabling Streaming Speech Enhancement on Eyewear Using Acoustic Sensing**, In Proceedings of ACM Interact. Mob. Wearable Ubiquitous Technol (IMWUT)/Ubicomp'25.
 
-- **C1.** Qian Zhang, Yubin Lan, **<u>Kaiyi Guo</u>**, Dong Wang, **Lipwatch: Enabling Silent Speech Recognition on Smartwatches using Acoustic Sensing**, In Proceedings of ACM Interact. Mob. Wearable Ubiquitous Technol (IMWUT)/Ubicomp'24. <a href="URL_TO_PDF" style="border: 1px solid lightcoral; padding: 3px 8px; text-decoration: none; color: black;">PDF</a>
+- **C1.** Qian Zhang, Yubin Lan, **<u>Kaiyi Guo</u>**, Dong Wang, **Lipwatch: Enabling Silent Speech Recognition on Smartwatches using Acoustic Sensing**, In Proceedings of ACM Interact. Mob. Wearable Ubiquitous Technol (IMWUT)/Ubicomp'24.
+<a href="URL_TO_PDF" style="border: 1px solid lightcoral; border-radius: 8px; padding: 4px 10px; text-decoration: none; color: black; background-color: white;">PDF</a>
 
 <sup>*</sup> Equal Contribution
 
