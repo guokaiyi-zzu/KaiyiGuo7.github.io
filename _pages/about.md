@@ -13,6 +13,7 @@ I'm a second-year Master's student from [School of Software](https://www.se.sjtu
 I am very fortunate to be advised by [Prof. Dong Wang](http://www.se.sjtu.edu.cn/Data/View/286) and [Prof. Qian Zhang](http://www.se.sjtu.edu.cn/Data/View/575) of RFID and IoT Lab from [School of Software](https://www.se.sjtu.edu.cn/), Shanghai Jiao Tong University. 
 
 You can find my CV here: [Kaiyi Guo's Curriculum Vitae](../assets/CV1.pdf).
+[1](../files/paper1.pdf)
 
 **I’m actively seeking opportunities to pursue a Ph.D. starting in Fall 2026.**
 
