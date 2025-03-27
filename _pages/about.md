@@ -24,6 +24,10 @@ You can find my CV here: [Kaiyi Guo's Curriculum Vitae](https://guokaiyi-zzu.git
 
 <table style="width: 100%; border-collapse: collapse; background-color: transparent; border: none; font-size: 16px;">
   <tr>
+    <td style="border: none;"><strong style="font-size: 18px;">Mar, 2025</strong></td>
+    <td style="border: none;">🏅️ EchoBreath has been selected for an Honorable Mention recognition at CHI 2025 (Top 5% of all submissions)!</td>
+  </tr>
+  <tr>
     <td style="border: none;"><strong style="font-size: 18px;">Jan, 2025</strong></td>
     <td style="border: none;">🎉 EchoBreath was accepted with minor revision to CHI’25. A glasses that monitor a user's abnormal respiratory behaviors with subject awareness in the real world.</td>
   </tr>
