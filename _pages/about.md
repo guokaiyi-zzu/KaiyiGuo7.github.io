@@ -25,6 +25,10 @@ You can find my CV here: [Kaiyi Guo's Curriculum Vitae](https://guokaiyi-zzu.git
 <table style="width: 100%; border-collapse: collapse; background-color: transparent; border: none; font-size: 16px;">
   <tr>
     <td style="border: none;"><strong style="font-size: 18px;">Apr, 2025</strong></td>
+    <td style="border: none;">🎉 EchoExpress was accepted to IEEE TMC. A glasses that recognizes the user's facial expression in the real world.</td>
+  </tr>
+  <tr>
+    <td style="border: none;"><strong style="font-size: 18px;">Apr, 2025</strong></td>
     <td style="border: none;">🎉 EchoTouch was accepted with minor revision to IMWUT’25. A glasses that monitor a user's face-touching behaviors in the real world.</td>
   </tr>
   <tr>
