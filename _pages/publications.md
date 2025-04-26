@@ -9,7 +9,7 @@ author_profile: true
 
 - **J1.** **<u>Kaiyi Guo</u>**, Qian Zhang, Dong Wang, **EchoExpress: Facial Expression Recognition in the Wild via Acoustic Sensing on Smart Glasses**, In (To Appear) Proceedings of IEEE Transactions on Mobile Computing (IEEE TMC).
 
-- **C3.** **<u>Kaiyi Guo</u>**, Qian Zhang, Dong Wang, **EchoBreath: Continuous Respiratory Behavior Recognition in the Wild via Acoustic Sensing on Smart Glasses**, In (To Appear) Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (CHI'25).
+- **C3.** **<u>Kaiyi Guo</u>**, Qian Zhang, Dong Wang, **EchoBreath: Continuous Respiratory Behavior Recognition in the Wild via Acoustic Sensing on Smart Glasses**, In Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (CHI'25).
 <span style="color: red;">[[pdf](https://dl.acm.org/doi/10.1145/3706598.3714171)]</span>
 
 - **C2.** Qian Zhang, **<u>Kaiyi Guo</u>**, Yifei Yang, Dong Wang, **WearSE: Enabling Streaming Speech Enhancement on Eyewear Using Acoustic Sensing**, In Proceedings of ACM Interact. Mob. Wearable Ubiquitous Technol (IMWUT)/Ubicomp'25.
