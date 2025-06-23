@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-- **C4.** **<u>Kaiyi Guo</u>**<sup>*</sup>, Tianyu Wu<sup>*</sup>, Yang Gao, Qian Zhang, Dong Wang, **EchoTouch: Low-power Face-touching Behavior Recognition Using Active Acoustic Sensing on Glasses**, In Proceedings of ACM Interact. Mob. Wearable Ubiquitous Technol (IMWUT)/Ubicomp'25. <span style="color: red;">[[pdf](https://dl.acm.org/doi/10.1145/3729493)]</span>
+- **C4.** **<u>Kaiyi Guo</u>**<sup>*</sup>, Tianyu Wu<sup>*</sup>, Yang Gao, Qian Zhang, Dong Wang, **EchoTouch: Low-power Face-touching Behavior Recognition Using Active Acoustic Sensing on Glasses**, In Proceedings of ACM Interact. Mob. Wearable Ubiquitous Technol (IMWUT)/Ubicomp'25. <span style="color: red;">[[pdf](https://dl.acm.org/doi/10.1145/3729481)]</span>
 
 - **J1.** **<u>Kaiyi Guo</u>**, Qian Zhang, Dong Wang, **EchoExpress: Facial Expression Recognition in the Wild via Acoustic Sensing on Smart Glasses**, In Proceedings of IEEE Transactions on Mobile Computing (IEEE TMC). <span style="color: red;">[[pdf](https://www.computer.org/csdl/journal/tm/5555/01/11002603/26F3rIaWVr2)]</span>
 
