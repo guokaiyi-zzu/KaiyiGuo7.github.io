@@ -24,7 +24,7 @@ You can find my CV here: [Kaiyi Guo's Curriculum Vitae](https://guokaiyi-zzu.git
 
 <table style="width: 100%; border-collapse: collapse; background-color: transparent; border: none; font-size: 16px;">
   <tr>
-    <td style="border: none;"><strong style="font-size: 18px;">Apr, 2025</strong></td>
+    <td style="border: none;"><strong style="font-size: 18px;">Aug, 2025</strong></td>
     <td style="border: none;">🧑🏻‍💻 I plan to visit the University of Michigan in September 2025 as a visiting researcher at SIX Lab (with Prof. Junyi Zhu).</td>
   </tr>
   <tr>
