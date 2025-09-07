@@ -24,12 +24,12 @@ You can find my CV here: [Kaiyi Guo's Curriculum Vitae](https://guokaiyi-zzu.git
 
 <table style="width: 100%; border-collapse: collapse; background-color: transparent; border: none; font-size: 16px;">
   <tr>
-    <td style="border: none;"><strong style="font-size: 18px;">Aug, 2025</strong></td>
-    <td style="border: none;">🧑🏻‍💻 I plan to visit the University of Michigan in September 2025 as a visiting researcher at SIX Lab (with Prof. Junyi Zhu).</td>
+    <td style="border: none;"><strong style="font-size: 18px;">Sep, 2025</strong></td>
+    <td style="border: none;">🎉 Our paper, EchoLip was accepted to IOTJ’25.</td>
   </tr>
   <tr>
-    <td style="border: none;"><strong style="font-size: 18px;">Apr, 2025</strong></td>
-    <td style="border: none;">🎉 EchoExpress was accepted to IEEE TMC. A glasses that recognizes the user's facial expression in the real world.</td>
+    <td style="border: none;"><strong style="font-size: 18px;">Sep, 2025</strong></td>
+    <td style="border: none;">🧑🏻‍💻 I am visiting the University of Michigan in September 2025 as a visiting researcher at SIX Lab (with Prof. Junyi Zhu).</td>
   </tr>
   <tr>
     <td style="border: none;"><strong style="font-size: 18px;">Apr, 2025</strong></td>
