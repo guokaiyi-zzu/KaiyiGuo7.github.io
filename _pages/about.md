@@ -19,7 +19,7 @@ You can find my CV here: [Kaiyi Guo's Curriculum Vitae](https://guokaiyi-zzu.git
 
 ### News
 
-<div style="height: 4px; background-color: red;"></div>
+<div style="height: 4px; background: linear-gradient(to right, #FFCB05 50%, #00274C 50%);"></div>
 
 
 <table style="width: 100%; border-collapse: collapse; background-color: transparent; border: none; font-size: 16px;">
