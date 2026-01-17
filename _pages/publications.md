@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+- **C5.** Cong Liu**<sup>*</sup>, RuiHao Zheng<sup>*</sup>, Jvbin Ren, **<u>Kaiyi Guo</u>**, Qian Zhang, She Dong, Yuting Bai, Zhanpeng Jin, Yang Gao, **RageSense: Leveraging Acoustic Sensing and LLM-Based Intervention for Privacy-Preserving Emotion Regulation in Mobile Gaming**, In Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI'26). <span style="color: red;">[[pdf]]</span>
+
 - **J2.** Ahsan Jamal Akbar, **<u>Kaiyi Guo</u>**, Qian Zhang, Dong Wang, **EchoLip: Pushing the Limit of Acoustic-Based Silent Speech Interface on Mobile Devices**, In Proceedings of IEEE Internet of Things Journal (IEEE IOTJ). <span style="color: red;">[[pdf](https://ieeexplore.ieee.org/abstract/document/11146579)]</span>
 
 - **C4.** **<u>Kaiyi Guo</u>**<sup>*</sup>, Tianyu Wu<sup>*</sup>, Yang Gao, Qian Zhang, Dong Wang, **EchoTouch: Low-power Face-touching Behavior Recognition Using Active Acoustic Sensing on Glasses**, In Proceedings of ACM Interact. Mob. Wearable Ubiquitous Technol (IMWUT)/Ubicomp'25. <span style="color: red;">[[pdf](https://dl.acm.org/doi/10.1145/3729481)]</span>
