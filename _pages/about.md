@@ -25,6 +25,10 @@ You can find my CV here: [Kaiyi Guo's Curriculum Vitae](https://guokaiyi-zzu.git
 <table style="width: 100%; border-collapse: collapse; background-color: transparent; border: none; font-size: 16px;">
   <tr>
     <td style="border: none;"><strong style="font-size: 18px;">Sep, 2025</strong></td>
+    <td style="border: none;">🎉 Our paper, RangeSense was conditionally accepted to CHI’26.</td>
+  </tr>
+  <tr>
+    <td style="border: none;"><strong style="font-size: 18px;">Sep, 2025</strong></td>
     <td style="border: none;">🎉 Our paper, EchoLip was accepted to IOTJ’25.</td>
   </tr>
   <tr>
