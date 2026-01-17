@@ -9,7 +9,7 @@ author_profile: true
 
 - **J2.** Ahsan Jamal Akbar, **<u>Kaiyi Guo</u>**, Qian Zhang, Dong Wang, **EchoLip: Pushing the Limit of Acoustic-Based Silent Speech Interface on Mobile Devices**, In Proceedings of IEEE Internet of Things Journal (IEEE IOTJ). <span style="color: red;">[[pdf](https://ieeexplore.ieee.org/abstract/document/11146579)]</span>
 
-- **C4.** **<u>Kaiyi Guo</u>** *, Tianyu Wu*, Yang Gao, Qian Zhang, Dong Wang, **EchoTouch: Low-power Face-touching Behavior Recognition Using Active Acoustic Sensing on Glasses**, In Proceedings of ACM Interact. Mob. Wearable Ubiquitous Technol (IMWUT)/Ubicomp'25. <span style="color: red;">[[pdf](https://dl.acm.org/doi/10.1145/3729481)]</span>
+- **C4.** <u>Kaiyi Guo</u>, Tianyu Wu*, Yang Gao, Qian Zhang, Dong Wang, **EchoTouch: Low-power Face-touching Behavior Recognition Using Active Acoustic Sensing on Glasses**, In Proceedings of ACM Interact. Mob. Wearable Ubiquitous Technol (IMWUT)/Ubicomp'25. <span style="color: red;">[[pdf](https://dl.acm.org/doi/10.1145/3729481)]</span>
 
 - **J1.** **<u>Kaiyi Guo</u>**, Qian Zhang, Dong Wang, **EchoExpress: Facial Expression Recognition in the Wild via Acoustic Sensing on Smart Glasses**, In Proceedings of IEEE Transactions on Mobile Computing (IEEE TMC). <span style="color: red;">[[pdf](https://www.computer.org/csdl/journal/tm/5555/01/11002603/26F3rIaWVr2)]</span>
 
