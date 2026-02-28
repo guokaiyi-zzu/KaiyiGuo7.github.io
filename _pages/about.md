@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third-year Master's student from the [School of Software](http://www.se.sjtu.edu.cn) at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). My research interests focus on **human-computer interaction**, **smart health**, and **wireless sensing**. By exploring diverse sensing modalities, hardware forms, and innovative machine learning methods, I aspire to transform complex interactive techniques, once restricted to laboratory settings, into simpler, more universally applicable solutions in real-world scenarios.
+I'm a third-year Master's student from the [School of Software](http://www.se.sjtu.edu.cn) at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). My research interests focus on **human-computer interaction**, **smart health**, and **wireless sensing**. By exploring diverse sensing modalities, hardware forms, and innovative machine learning methods, I aspire to create more convenient, unobtrusive, and personalized wearable systems tailored to specific groups of people.
 
-I am very fortunate to be advised by [Prof. Dong Wang](http://www.se.sjtu.edu.cn/Data/View/286) and [Prof. Qian Zhang](http://www.se.sjtu.edu.cn/Data/View/575) of RFID and IoT Lab from [School of Software](http://www.se.sjtu.edu.cn/), Shanghai Jiao Tong University. Now, I am fortunate to be working as a visiting scholar under the guidance of [Prof. Junyi Zhu](https://www.junyizhu.com/) at the [SIX Lab](https://sixlab-eecs.com/), [University of Michigan](https://umich.edu/).
+I am very fortunate to be advised by [Prof. Dong Wang](http://www.se.sjtu.edu.cn/Data/View/286) and [Prof. Qian Zhang](http://www.se.sjtu.edu.cn/Data/View/575) of RFID and IoT Lab from [School of Software](http://www.se.sjtu.edu.cn/), Shanghai Jiao Tong University. Previously, I was fortunate to be working as a visiting scholar under the guidance of [Prof. Junyi Zhu](https://www.junyizhu.com/) at the [SIX Lab](https://sixlab-eecs.com/), [University of Michigan](https://umich.edu/).
 
 You can find my CV here: [Kaiyi Guo's Curriculum Vitae](https://guokaiyi-zzu.github.io/KaiyiGuo7.github.io/assets/CV.pdf).
 
