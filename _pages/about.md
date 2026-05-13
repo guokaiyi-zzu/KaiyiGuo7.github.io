@@ -14,7 +14,7 @@ I am very fortunate to be advised by [Prof. Dong Wang](http://www.se.sjtu.edu.cn
 
 You can find my CV here: [Kaiyi Guo's Curriculum Vitae](https://guokaiyi-zzu.github.io/KaiyiGuo7.github.io/assets/CV.pdf).
 
-**I’m actively seeking opportunities to pursue a Ph.D. starting in Fall 2026.**
+**I will be an incoming Ph.D. student at the University of Michigan in Fall 2026.**
 
 
 ### News
