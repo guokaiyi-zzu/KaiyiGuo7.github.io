@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kaiyi Guo's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Kaiyi Guo"
-description              : &description "a second year Master‘s student from Shanghai Jiao Tong University"
+description              : &description "Master's graduate of Shanghai Jiao Tong University"
 url                      : https://guokaiyi-zzu.github.io/KaiyiGuo7.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "guokaiyi-zzu/KaiyiGuo7.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Kaiyi Guo"
   avatar           : "gky.png"
-  bio              : "Shanghai Jiao Tong University"
+  bio              : "Master's graduate of Shanghai Jiao Tong University"
   location         : "Shanghai, China"
   employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=dCuMUU4AAAAJ&hl=zh-CN"
-  email            : "gky2023@sjtu.edu.cn"
+  email            : "kaiyiguo@umich.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
