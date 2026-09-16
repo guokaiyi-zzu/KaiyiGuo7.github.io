@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+- **C7.** Jiale Zhang, Shufeng Yin, Lingxiao Yang, Jisu Yim, **<u>Kaiyi Guo</u>**, Yuxuan Miao, Daniel Vena, Pei Zhang, Yiyue Luo, Junyi Zhu, **SleepVibe: Sleep Stage Monitoring Through Active Bed Frame Vibration**, In Proceedings of ACM Interact. Mob. Wearable Ubiquitous Technol (IMWUT)/UbiComp'27.
+
+- **C6.** ZhiChao Huang, Yingnian Guo, Chiyue Wang, Zhengte Cai, Xiongfeng Ying, Yu He, Yingjing Xiao, **<u>Kaiyi Guo</u>**, Qian Zhang, Zhanpeng Jin, Yang Gao, **EmbodiedRecall: A Ring-to-Glasses System for Preserving Valuable, Fleeting Moments in Daily Activities**, In Proceedings of ACM Interact. Mob. Wearable Ubiquitous Technol (IMWUT)/UbiComp'26.
+
 - **C5.** Cong Liu *, Ruihao Zheng *, Jvbin Ren, **<u>Kaiyi Guo</u>**, Qian Zhang, She Dong, Yuting Bai, Zhanpeng Jin, Yang Gao, **RageSense: Leveraging Acoustic Sensing and LLM-Based Intervention for Privacy-Preserving Emotion Regulation in Mobile Gaming**, In Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI'26). <span style="color: red;">[[pdf](https://dl.acm.org/doi/full/10.1145/3772318.3791076)]</span>
 
 - **J2.** Ahsan Jamal Akbar, **<u>Kaiyi Guo</u>**, Qian Zhang, Dong Wang, **EchoLip: Pushing the Limit of Acoustic-Based Silent Speech Interface on Mobile Devices**, In Proceedings of IEEE Internet of Things Journal (IEEE IOTJ). <span style="color: red;">[[pdf](https://ieeexplore.ieee.org/abstract/document/11146579)]</span>
