@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kaiyi Guo's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Kaiyi Guo"
-description              : &description "Master's graduate of Shanghai Jiao Tong University"
+description              : &description "Kaiyi Guo"
 url                      : https://guokaiyi-zzu.github.io/KaiyiGuo7.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "guokaiyi-zzu/KaiyiGuo7.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kaiyi Guo"
   avatar           : "gky.png"
-  bio              : "Master's graduate of Shanghai Jiao Tong University"
+  bio              :
   location         : "Shanghai, China"
   employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
