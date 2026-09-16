@@ -8,14 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third-year Master's student from the [School of Software](http://www.se.sjtu.edu.cn) at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). My research interests focus on **human-computer interaction**, **smart health**, and **wireless sensing**. By exploring diverse sensing modalities, hardware forms, and innovative machine learning methods, I aspire to create more convenient, unobtrusive, and personalized wearable systems tailored to specific groups of people.
+**I will be an incoming Ph.D. student at the [University of Michigan](https://umich.edu/) in <del>Fall 2026</del> Winter 2027.**
 
-I am very fortunate to be advised by [Prof. Dong Wang](http://www.se.sjtu.edu.cn/Data/View/286) and [Prof. Qian Zhang](http://www.se.sjtu.edu.cn/Data/View/575) of RFID and IoT Lab from [School of Software](http://www.se.sjtu.edu.cn/), Shanghai Jiao Tong University. Previously, I was fortunate to be working as a visiting scholar under the guidance of [Prof. Junyi Zhu](https://www.junyizhu.com/) at the [SIX Lab](https://sixlab-eecs.com/), [University of Michigan](https://umich.edu/).
+I completed my Master's degree at the [School of Computer Science](https://www.cs.sjtu.edu.cn/) at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) and my Bachelor's degree at the [School of Computer Science and Artificial Intelligence](https://www7.zzu.edu.cn/csai/) at [Zhengzhou University](https://english.zzu.edu.cn/). My research interests focus on **human-computer interaction**, **smart health**, and **wireless sensing**. By exploring diverse sensing modalities, hardware forms, and innovative machine learning methods, I aspire to create more convenient, unobtrusive, and personalized wearable systems tailored to specific groups of people.
+
+During my Master's studies, I was fortunate to be advised by [Prof. Dong Wang](https://www.cs.sjtu.edu.cn/en/jiaoshiml/wangdong.html) and [Prof. Qian Zhang](https://cs.sjtu.edu.cn/en/jiaoshiml/zhangqian.html) at Shanghai Jiao Tong University. I was also a visiting researcher under the guidance of [Prof. Junyi Zhu](https://www.junyizhu.com/) at the [SIX Lab](https://sixlab-eecs.com/), University of Michigan.
 
 You can find my CV here: [Kaiyi Guo's Curriculum Vitae](https://guokaiyi-zzu.github.io/KaiyiGuo7.github.io/assets/CV.pdf).
-
-**I will be an incoming Ph.D. student at the University of Michigan in Fall 2026.**
-
 
 ### News
 
@@ -23,6 +22,14 @@ You can find my CV here: [Kaiyi Guo's Curriculum Vitae](https://guokaiyi-zzu.git
 
 
 <table style="width: 100%; border-collapse: collapse; background-color: transparent; border: none; font-size: 16px;">
+  <tr>
+    <td style="border: none;"><strong style="font-size: 18px;">Sep, 2026</strong></td>
+    <td style="border: none;">🎉 Our paper, SleepVibe, was accepted to IMWUT/UbiComp’27.</td>
+  </tr>
+  <tr>
+    <td style="border: none;"><strong style="font-size: 18px;">Jul, 2026</strong></td>
+    <td style="border: none;">🎉 Our paper, EmbodiedRecall, was accepted to IMWUT/UbiComp’26.</td>
+  </tr>
   <tr>
     <td style="border: none;"><strong style="font-size: 18px;">Jan, 2026</strong></td>
     <td style="border: none;">🎉 Our paper, RangeSense was conditionally accepted to CHI’26.</td>
