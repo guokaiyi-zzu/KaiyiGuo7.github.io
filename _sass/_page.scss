@@ -50,6 +50,13 @@
 
 .page__content {
 
+  .about-intro a,
+  .about-intro a:hover,
+  .about-intro a:focus,
+  .about-intro a:visited {
+    text-decoration: none;
+  }
+
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
